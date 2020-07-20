@@ -8,5 +8,8 @@
 
 def select_winner(passengers)
   # add the code snippet here!
-  passengers.
+  passengers.any("A")
+  
+  
+  
 end
